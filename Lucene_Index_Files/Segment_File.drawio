@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="7sxDZyWkMXktP_-42aA4" name="Page-1">
-        <mxGraphModel dx="476" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+        <mxGraphModel dx="667" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -52,7 +52,7 @@
                 <mxCell id="68" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="1045" y="134" width="240" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="76" value="" style="group" vertex="1" connectable="0" parent="68">
+                <mxCell id="76" value="" style="group" parent="68" vertex="1" connectable="0">
                     <mxGeometry width="240" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="MinSegmentLuceneVersion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="76" vertex="1">
@@ -76,7 +76,7 @@
                 <mxCell id="69" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="1645" y="134" width="300" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="77" value="" style="group" vertex="1" connectable="0" parent="69">
+                <mxCell id="77" value="" style="group" parent="69" vertex="1" connectable="0">
                     <mxGeometry width="300" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="77" vertex="1">
@@ -151,7 +151,7 @@
                         <mxPoint x="1055" y="164" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="75" value="" style="group" vertex="1" connectable="0" parent="1">
+                <mxCell id="75" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="370" y="254" width="450" height="440" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="Header" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;fontColor=#000000;" parent="75" vertex="1">
@@ -196,7 +196,7 @@
                         <mxPoint x="65" y="50" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="74" value="" style="group" vertex="1" connectable="0" parent="75">
+                <mxCell id="74" value="" style="group" parent="75" vertex="1" connectable="0">
                     <mxGeometry y="120" width="270" height="320" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="CodecHeader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="74" vertex="1">
